@@ -1,5 +1,10 @@
 # @contracorriente/ui
 
+Repo: [contracorriente-ui](https://github.com/RicardoArceNCR/contracorriente-ui).
+El nombre de paquete sigue siendo `@contracorriente/ui`. El renombrado del
+repositorio no cambia tokens, versiones ni tags publicados. Tema WordPress y
+sitio Next consumen el mismo paquete, fijado por tag.
+
 Tokens de ContraCorriente. La fuente que se edita es el Figma. `source/dtcg/` es el export nativo de Figma (DTCG), un archivo por colección; `scripts/dtcg-to-sd.mjs` lo convierte y las listas del cliente están en `tokens.config.json`. El CSS de `build/` se genera y se versiona para que el sitio no tenga que correr Style Dictionary.
 
 ```bash
