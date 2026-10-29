@@ -1,6 +1,9 @@
 # @contracorriente/ui
 
-Repo: [contracorriente-ui](https://github.com/RicardoArceNCR/contracorriente-ui).
+Trabajo del equipo en `divergentesca`; los repos de `RicardoArceNCR` conservan
+el corte original. La adaptación no mueve tags ni cambia el contenido de UI v0.1.0.
+
+Repo: [contracorriente-ui](https://github.com/divergentesca/contracorriente-ui).
 El nombre de paquete sigue siendo `@contracorriente/ui`. El renombrado del
 repositorio no cambia tokens, versiones ni tags publicados. Tema WordPress y
 sitio Next consumen el mismo paquete, fijado por tag.
@@ -23,7 +26,7 @@ En el sitio, un solo grafo de `@import`, en este orden:
 
 ## Trabajo con tres repos
 
-Este paquete trabaja junto al sitio [contracorriente](https://github.com/RicardoArceNCR/contracorriente)
+Este paquete trabaja junto al sitio [contracorriente](https://github.com/divergentesca/contracorriente)
 y las prácticas compartidas de [estudio](https://github.com/RicardoArceNCR/estudio).
 En la máquina de Ricardo vive en `~/ui/contracorriente`; `~/ui` contiene
 varios paquetes y no es un solo repositorio. Las rutas pueden cambiar.
